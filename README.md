@@ -1,3 +1,3 @@
 # TopUp
 Solidity Setup
-![](Eterna.pdf)
+![](E1.jpg)
